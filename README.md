@@ -5,10 +5,10 @@
 Welcome to the official repository for the **Emergency and Mental Well-being** project, developed by **Team Avengers** under the guidance of our mentor, **Manikanta** from **Infosys Springboard**. This project aims to provide a comprehensive platform for emergency assistance and mental health well-being.
 
 ### Team Members:
-1. **Logesh**
-2. **Suhail**
-3. **Manvitha**
-4. **Divyadharshini**
+1. **Manvitha**
+2. **Divyadharshini**
+3. **Logesh**
+4. **Suhail**
 5. **Harini**
 6. **Gokilaselvi**
 
